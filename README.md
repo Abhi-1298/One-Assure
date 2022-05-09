@@ -8,7 +8,7 @@
 
 Run Localy
 ```
-git clone 
+git clone https://github.com/Abhi-1298/One-Assure.git
 ```
 Create Environment
 ```

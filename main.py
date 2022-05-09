@@ -52,7 +52,7 @@ def upload_file():
 @app.route('/file/<column_name>/<column_value>', methods=['GET'])
 @auth.authenticate
 def lookup_file(column_name, column_value):
-    if request.method == "POST":
+    if request.method == "GET":
         return views.file_lookup(request, column_name, column_value)
 
 

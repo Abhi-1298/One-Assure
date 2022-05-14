@@ -22,3 +22,7 @@ Install all Dependencies
 ```
 pip install requirements.txt
 ```
+## Postman collection 
+```
+https://www.getpostman.com/collections/5cb1877afae19c8549be
+```

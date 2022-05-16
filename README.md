@@ -24,5 +24,5 @@ pip install requirements.txt
 ```
 ## Postman collection 
 ```
-https://www.getpostman.com/collections/dbba41ef31a0975bc956
+https://www.getpostman.com/collections/5cb1877afae19c8549be
 ```
